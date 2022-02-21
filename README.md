@@ -1,5 +1,7 @@
 # Exploration of the Python Pangeo Stack
 
+This repo contains two notebooks that I used in exploring the Python libraries that comprise the "Pangeo Stack". They use data from [this publication](https://www.nature.com/articles/s41597-019-0328-7), and focus on the modules Xarray, Dask, and Cartopy.
+
 NOTE: I have not included the source data in this repository, so please only view these as static notebooks. 
 
 If you wish to download the data and use these notebooks dynamically, take the following steps:
